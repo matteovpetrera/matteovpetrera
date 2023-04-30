@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center">
+<a href="https://github.com/matteovpetrera" target="_blank">
+<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/PetreraMatteo" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/matteovpetrera" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/matteo_petrera" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6 alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<!--
-**matteovpetrera/matteovpetrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>  
 
-Here are some ideas to get you started:
+- 🧑‍🎓Graduating in Management Enegeneering at Politecnico di Torino  
+- 🇮🇹 Based in Turin, Italy  
+- 🧰 I build with: `Python`, `Java`, `JavaScript`, `CSS` , `html` ...  
+- 📫 Feel free to reach out to me at: matteovincenzo.petrera@gmail.com  
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
