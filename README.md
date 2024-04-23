@@ -16,7 +16,7 @@
 
 <br/>  
 
-- 🧑‍🎓Graduating in Management Enegeneering at Politecnico di Torino  
+- 🧑‍🎓 Master Degree in Computer Engineering @ Politecnico di Torino
 - 🇮🇹 Based in Turin, Italy  
 - 🧰 I build with: `Python`, `Java`, `JavaScript`, `CSS` , `html` ...  
 - 📫 Feel free to reach out to me at: matteovincenzo.petrera@gmail.com  
