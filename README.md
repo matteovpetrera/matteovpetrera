@@ -18,7 +18,7 @@
 
 - 🧑‍🎓 Master Degree in Computer Engineering @ Politecnico di Torino
 - 🇮🇹 Based in Turin, Italy  
-- 🧰 I build with: `Python`, `Java`, `JavaScript`, `CSS` , `html` ...  
+- 🧰 I build with: `JavaScript`, `Java`, `Rust`, `Python`, `CSS` ...  
 - 📫 Feel free to reach out to me at: mvpetrera@gmail.com  
 <br />
 
